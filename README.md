@@ -1,4 +1,4 @@
-# parallel-image-prcessing
+# parallel-image-processing
 Processamento paralelo de imagens com MPI e OpenMP.
 
 No exemplo utilizado é realizado a paralelização da transformação de uma imagem colorida em escala de cinza.
